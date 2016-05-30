@@ -1,0 +1,5 @@
+A small project to play with .net and have an access to access lockscreen icon in the system tray.
+
+Double click the icon to lock the screen, or right click and select the 'Lock Screen' menu option.
+
+To close the app right click the icon and choose 'Exit'.
